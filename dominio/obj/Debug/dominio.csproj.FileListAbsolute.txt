@@ -1,0 +1,24 @@
+C:\Users\rursi\.net\carrito-asp\dominio\bin\Debug\dominio.dll
+C:\Users\rursi\.net\carrito-asp\dominio\bin\Debug\dominio.pdb
+C:\Users\rursi\.net\carrito-asp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\rursi\.net\carrito-asp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\rursi\.net\carrito-asp\dominio\obj\Debug\dominio.dll
+C:\Users\rursi\.net\carrito-asp\dominio\obj\Debug\dominio.pdb
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\bin\Debug\dominio.dll
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\bin\Debug\dominio.pdb
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\obj\Debug\dominio.dll
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\dominio\obj\Debug\dominio.pdb
+C:\CARRITO_PABLO\CarritoPablo\dominio\bin\Debug\dominio.dll
+C:\CARRITO_PABLO\CarritoPablo\dominio\bin\Debug\dominio.pdb
+C:\CARRITO_PABLO\CarritoPablo\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\CARRITO_PABLO\CarritoPablo\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\CARRITO_PABLO\CarritoPablo\dominio\obj\Debug\dominio.dll
+C:\CARRITO_PABLO\CarritoPablo\dominio\obj\Debug\dominio.pdb
+C:\CARRITO_PABLO\Carrito\dominio\bin\Debug\dominio.dll
+C:\CARRITO_PABLO\Carrito\dominio\bin\Debug\dominio.pdb
+C:\CARRITO_PABLO\Carrito\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\CARRITO_PABLO\Carrito\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\CARRITO_PABLO\Carrito\dominio\obj\Debug\dominio.dll
+C:\CARRITO_PABLO\Carrito\dominio\obj\Debug\dominio.pdb

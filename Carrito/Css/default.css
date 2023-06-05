@@ -1,0 +1,17 @@
+﻿.contenedor-tarjetas {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.card {
+    height: 400px;
+}
+
+.imagen-tarjeta {
+    height: 60%;
+}
+
+.texto-tarjeta {
+    height: 40%;
+}

@@ -1,0 +1,36 @@
+﻿.contenedor-detalle {
+    width: 100%;
+}
+
+.carrusel, .ficha {
+    width: 45%;
+    height: 422px;
+    
+}
+.ficha {
+    border-left: 1px solid black;
+}
+
+#carouselProduct img {
+    height: 25rem;
+}
+
+.ficha ul {
+    list-style-type: none;
+    margin: 3% 0;
+}
+
+.ficha ul li {
+    padding-bottom: 0.5rem;
+}
+
+.ficha h3{
+    padding-left: 2rem;
+}
+
+.ficha input {
+    margin-left: 2rem;
+    text-align: center;
+    width: 20%;
+}
+

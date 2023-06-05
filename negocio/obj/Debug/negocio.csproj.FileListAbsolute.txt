@@ -1,0 +1,36 @@
+C:\Users\rursi\.net\carrito-asp\negocio\bin\Debug\negocio.dll
+C:\Users\rursi\.net\carrito-asp\negocio\bin\Debug\negocio.pdb
+C:\Users\rursi\.net\carrito-asp\negocio\bin\Debug\dominio.dll
+C:\Users\rursi\.net\carrito-asp\negocio\bin\Debug\dominio.pdb
+C:\Users\rursi\.net\carrito-asp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\rursi\.net\carrito-asp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\rursi\.net\carrito-asp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\rursi\.net\carrito-asp\negocio\obj\Debug\negocio.dll
+C:\Users\rursi\.net\carrito-asp\negocio\obj\Debug\negocio.pdb
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\bin\Debug\negocio.dll
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\bin\Debug\negocio.pdb
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\bin\Debug\dominio.dll
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\bin\Debug\dominio.pdb
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\obj\Debug\negocio.dll
+C:\Users\Pablo.Eckerdt\Desktop\Archivos PABLO\000 - TUP\3 - 1c - Programacion 3 (Maxi)\Actividad 4 - Carrito ASP\carrito-asp\negocio\obj\Debug\negocio.pdb
+C:\CARRITO_PABLO\CarritoPablo\negocio\bin\Debug\negocio.dll
+C:\CARRITO_PABLO\CarritoPablo\negocio\bin\Debug\negocio.pdb
+C:\CARRITO_PABLO\CarritoPablo\negocio\bin\Debug\dominio.dll
+C:\CARRITO_PABLO\CarritoPablo\negocio\bin\Debug\dominio.pdb
+C:\CARRITO_PABLO\CarritoPablo\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\CARRITO_PABLO\CarritoPablo\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\CARRITO_PABLO\CarritoPablo\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\CARRITO_PABLO\CarritoPablo\negocio\obj\Debug\negocio.dll
+C:\CARRITO_PABLO\CarritoPablo\negocio\obj\Debug\negocio.pdb
+C:\CARRITO_PABLO\Carrito\negocio\bin\Debug\negocio.dll
+C:\CARRITO_PABLO\Carrito\negocio\bin\Debug\negocio.pdb
+C:\CARRITO_PABLO\Carrito\negocio\bin\Debug\dominio.dll
+C:\CARRITO_PABLO\Carrito\negocio\bin\Debug\dominio.pdb
+C:\CARRITO_PABLO\Carrito\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\CARRITO_PABLO\Carrito\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\CARRITO_PABLO\Carrito\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\CARRITO_PABLO\Carrito\negocio\obj\Debug\negocio.dll
+C:\CARRITO_PABLO\Carrito\negocio\obj\Debug\negocio.pdb
